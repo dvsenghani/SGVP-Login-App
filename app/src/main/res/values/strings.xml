@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SGVP_LOGIN</string>
+    <string name="SGVP" />
 </resources>

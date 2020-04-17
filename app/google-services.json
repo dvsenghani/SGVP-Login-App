@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "998327328466",
+    "firebase_url": "https://sgvp-1eb24.firebaseio.com",
+    "project_id": "sgvp-1eb24",
+    "storage_bucket": "sgvp-1eb24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998327328466:android:576b72eea9b3d1c33f970b",
+        "android_client_info": {
+          "package_name": "com.ds.sgvp_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998327328466-ck2uujg2kkf3glpsltp0gf0qkkpqtff6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARV9Sxn6VnkDh8HR6yKK6rZfrvMaYR0ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998327328466-ck2uujg2kkf3glpsltp0gf0qkkpqtff6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
