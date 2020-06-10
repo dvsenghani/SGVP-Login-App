@@ -1,3 +1,3 @@
-# SGVP_LOGIN
+# SGVP Login App
 # Android Studio - Java
-# XML AND JAVA SCRIPT
+
